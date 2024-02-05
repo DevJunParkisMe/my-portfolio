@@ -34,7 +34,7 @@ const ProjectTwo = () => {
                         </li>
                         <li className='w-full flex'>
                             <div className='w-1/2 font-SBAggroB'>Demo</div>
-                            <a className='w-1/2 text-sm underline text-left' href="https://my-portfolio-pi-woad-13.vercel.app/">https://my-portfolio-pi-woad-13.vercel.app/</a>
+                            <a className='w-1/2 text-sm underline text-left' href="https://my-portfolio-pi-woad-13.vercel.app">https://my-portfolio-pi-woad-13.vercel.app</a>
                         </li>
                         <li className='w-full flex'>
                             <div className='flex-1 font-SBAggroB'>FrontEnd(FE)</div>
