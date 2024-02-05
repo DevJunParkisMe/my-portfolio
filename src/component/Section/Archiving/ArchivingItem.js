@@ -4,7 +4,7 @@ const ArchivingItem = () => {
   return (
     <div className='w-3/5 h-full flex flex-col items-center justify-center gap-10'>
         <div className='text-4xl font-SBAggroB'>ARCHIVING</div>
-        <div className='w-full h-3/4 bg-black rounded-3xl flex justify-center items-center'>
+        <div className='w-full h-3/4 bg-black rounded-3xl flex justify-center items-center'  style={{boxShadow: '10px 10px 0 0 rgba(0,0,0,0.1)'}}>
             <div className='h-3/4 bg-white rounded-3xl' style={{width: '90%'}}>
                 <div className='w-full h-24' style={{backgroundImage:"url('img/github.jpeg')", backgroundSize:'contain', backgroundRepeat: 'no-repeat', backgroundPosition: 'center'}}></div>
                 <ul className='font-Orbit font-semibold flex flex-col items-center gap-2'>
