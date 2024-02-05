@@ -33,10 +33,6 @@ const ProjectTwo = () => {
                             <a className='w-1/2 text-sm underline text-left' href="https://github.com/DevJunParkisMe/my-portfolio.git">https://github.com/DevJunParkisMe/my-portfolio.git</a>
                         </li>
                         <li className='w-full flex'>
-                            <div className='w-1/2 font-SBAggroB'>Demo</div>
-                            <a className='w-1/2 text-sm underline text-left' href="https://my-portfolio-9mvk9q1mg-devjunparkismes-projects.vercel.app/">https://my-portfolio-9mvk9q1mg-devjunparkismes-projects.vercel.app/</a>
-                        </li>
-                        <li className='w-full flex'>
                             <div className='flex-1 font-SBAggroB'>FrontEnd(FE)</div>
                             <div className='flex-1 text-sm font-KNUJin text-left'>React.js, tailwindCSS, React-Hook</div>
                         </li>
